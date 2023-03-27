@@ -12,6 +12,9 @@ module.exports = {
     extend: {
       backgroundImage: {
         'hero': "url('../img/hero.jpg')",
+        'section1': "url('../img/section1.jpg')",
+        'section2': "url('../img/section2.jpg')",
+        'footer': "url('../img/footer.jpg')",
       },
       fontFamily: {
         'Poppins': ['"Poppins"'],
