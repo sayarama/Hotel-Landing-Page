@@ -2,6 +2,8 @@ import { FaHotel } from "react-icons/fa";
 import Image from "next/image";
 import footer from "../img/footer.jpg"
 
+
+
 export default function Home() {
   return (
     <>
@@ -67,7 +69,7 @@ export default function Home() {
         <p className="text-black font-Edu text-center md:text-2xl">VIPP</p>
       <hr />
       <div className="section-3 w-full h-full m-auto text-black font-Poppins flex items-center justify-evenly">
-        <div className="section-child p-2 w-2/4 ">
+        <div data-aos="slide-right" className="section-child p-2 w-2/4 ">
         <p className=" text-3xl font-bold md:text-4xl lg:text-6xl">Take a look at our rooms</p>
         <p className="text-xs md:text-md lg:text-lg mt-6">
           The hotel is small with just three locations, but more are in the making. Treat yourself to a gateway in the Vipp Shelter surrounded by Swedish nature, go for maximized urbanity at the Vipp Loft in COppenhagen, or check into a histoic Coppenhagen landmark at Vipp Chimney House.
