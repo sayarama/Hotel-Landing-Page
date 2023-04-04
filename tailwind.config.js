@@ -11,10 +11,10 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'hero': "url('../img/hero.jpg')",
-        'section1': "url('../img/section1.jpg')",
-        'section2': "url('../img/section2.jpg')",
-        'footer': "url('../img/footer.jpg')",
+        'hero': "url('../img/hero.webp')",
+        'section1': "url('../img/section1.webp')",
+        'section2': "url('../img/section2.webp')",
+        'footer': "url('../img/footer.webp')",
       },
       fontFamily: {
         'Poppins': ['"Poppins"'],
