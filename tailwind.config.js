@@ -11,7 +11,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'hero': "url('../img/hero.webp')",
+        'hero': "url('https://raw.githubusercontent.com/ulrmdhn/Hotel-Landing-Page/main/src/img/hero.webp')",
         'section1': "url('../img/section1.webp')",
         'section2': "url('../img/section2.webp')",
         'footer': "url('../img/footer.webp')",
