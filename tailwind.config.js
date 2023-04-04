@@ -12,7 +12,6 @@ module.exports = {
     extend: {
       backgroundImage: {
         'hero': "url('https://raw.githubusercontent.com/ulrmdhn/Hotel-Landing-Page/main/src/img/hero.webp')",
-        'section1': "https://raw.githubusercontent.com/ulrmdhn/Hotel-Landing-Page/main/src/img/section1.webp')",
         'section2': "https://raw.githubusercontent.com/ulrmdhn/Hotel-Landing-Page/main/src/img/section2.webp')",
         'footer': "url('https://raw.githubusercontent.com/ulrmdhn/Hotel-Landing-Page/main/src/img/footer.webp')",
       },
